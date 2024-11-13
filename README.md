@@ -1,10 +1,12 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Credit card fraud detection using 
+transaction analysis.
+Credit card fraud detection is crucial for ensuring secure transactions in the financial industry, particularly with the rise of online banking. 
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+This project aims to accurately identify fraudulent transactions by analyzing details such as transaction amounts, times, merchant IDs, and cardholder information. By incorporating credit card provider data (e.g., RuPay, Visa, MasterCard).
+We can further optimize fraud detection and security. The goal is to build a system that provides real-time fraud detection, ensuring a seamless and secure experience for users.
+
 
 ## Features
 <!--List the features of the project as shown below-->
