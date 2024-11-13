@@ -53,8 +53,10 @@ The Sign Language Detection System enhances accessibility for individuals with h
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.Aggarwal, C.C., "Data Mining: The Textbook," Springer, 2015. 
+2.Kou, Y., Lu, C.-T., Sirwongwattana, S., & Huang, Y.-P., "Survey of Fraud Detection Techniques," IEEE Transactions on Systems, Man, and Cybernetics, 2004. 
+3.Bhattacharyya, S., Jha, S., Tharakunnel, K., & Westland, J.C., "Data Mining for Credit Card Fraud: A Comparative Study," Decision Support Systems, 2011.
+4.Varmedja, D., Karanovic, M., Sladojevic, S., Arsenovic, M., & Anderla, A., "Credit Card Fraud Detection - Machine Learning Methods," 18th International Symposium INFOTEH-JAHORINA, 2019.
 
 
 
